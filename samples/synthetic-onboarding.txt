@@ -1,0 +1,9 @@
+NORTHSTAR STUDIO — SYNTHETIC ONBOARDING POLICY
+This practice document describes a fictional company.
+
+Laptop pickup is at the IT desk on the first day.
+Bring your employee ID to collect the laptop.
+The IT desk opens at 9:00 a.m.
+
+Set up multifactor authentication during the first login.
+Complete the welcome checklist by Friday.

@@ -1,0 +1,4 @@
+-c requirements.lock.txt
+streamlit==1.45.1
+scikit-learn==1.6.1
+PyMuPDF==2.1
